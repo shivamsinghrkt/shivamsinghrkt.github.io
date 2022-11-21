@@ -28,7 +28,7 @@ projectsSection.innerHTML = `
                             <a href="https://github.com/Arun-Jawlia/Arun-Jawlia-wiggly-stick-3716" target="blank"><button>
                                     Github</button></a>
                             <a href="https://clone-of-sephora-arun-jawlia.vercel.app/" target="blank"><button>Demo</button></a>
-                            <a href="https://medium.com/@dchaurasiya8589/hello-readers-this-is-deepak-from-team-electric-908c2b43deab/" target="blank"><button>Blog</button></a>
+                           
 
                         </div>
                     </div>
@@ -62,7 +62,7 @@ projectsSection.innerHTML = `
                             <a href="https://github.com/shivamsinghrkt/Licious.com" target="blank"><button>
                                     Github</button></a>
                             <a href="https://rad-bonbon-b4b036.netlify.app/" target="blank"><button>Demo</button></a>
-                            <a href="https://medium.com/@dchaurasiya8589/hello-everyone-f7ad89f86f40" target="blank"><button>Blog</button></a>
+                            
 
                         </div>
                     </div>
@@ -93,15 +93,14 @@ projectsSection.innerHTML = `
                             <p><i class="fab fa-html5"></i> HTML</p>
                             <p><i class="fab fa-css3-alt"></i> CSS</p>
                             <p> <i class="fab fa-node-js"></i> NodeJs</p>
-                            <p> <i class="fab fa-node-js"></i> ExpressJs</p>
-                            <p> <i class="fas fa-database"></i> MongoDb</p>
+                            
                         </div>
                         <div class="ProjectLinks">
                             <a href="https://github.com/abhayfaldu/hard-ear-2917"
                                 target="blank"><button>
                                     Github</button></a>
                             <a href="https://phenomenal-chebakia-c9e094.netlify.app/" target="blank"><button>Demo</button></a>
-                            <a href="https://medium.com/@dchaurasiya8589/building-the-clone-of-lybrate-com-website-58a77fc45a7d" target="blank"><button>Blog</button></a>
+                            
 
                         </div>
                     </div>
@@ -142,7 +141,7 @@ projectsSection.innerHTML = `
                                 target="blank"><button>
                                     Github</button></a>
                             <a href="https://boat-lifestyle-clone-7.netlify.app/" target="blank"><button>Demo</button></a>
-                            <a "https://medium.com/@dchaurasiya8589/building-the-clone-of-lybrate-com-website-58a77fc45a7d" target="blank"><button>Blog</button></a>
+                           
 
                         </div>
                     </div>
